@@ -99,6 +99,10 @@ while True :
                             students.remove(std)
                             print("Student Remove Successfully ! ")
 
+                    else:
+                        print("Student Data Not Found.")
+        
+
  
           
     elif choice == 5 :
